@@ -1,0 +1,11 @@
+html {
+    background: rgb(107, 166, 255);
+}
+#board {
+    
+    width:1000px;
+    height: 1000px;
+    position: absolute;
+    margin:auto;
+
+}
